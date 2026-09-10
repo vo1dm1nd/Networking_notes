@@ -15,5 +15,8 @@
 
 ### End Devices 
 > The devices that people are most familiar with are called end devices. Such as Mobile, computers, laptops, tablets, Security Cameras ..etc 
+-- 
 
+- ` Bandwith is the maximum capacity of a communication link to transmit data over a network in a given amount of time. `
 
+- ` Throughput is the actual amount of data successfully delivered in real world conditions. (might be lower than bandiwith cuz of network congestion or interference)
